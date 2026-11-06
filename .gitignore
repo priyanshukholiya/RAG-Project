@@ -1,0 +1,7 @@
+# Local Claude instructions
+CLAUDE.local.md
+
+# Secrets
+.env
+.env.*
+!.env.example
